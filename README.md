@@ -10,7 +10,7 @@ Compatível com joysticks tal como de Xbox 360 e Xbox ONE.
 ## Requerimentos
 
 Python 3 (ou superior): https://www.python.org/  
-pygame: https://www.pygame.org  
+Pygame: https://www.pygame.org  
 (Testado em Windows)  
     
 Guia de instalação: https://www.youtube.com/watch?v=G45nFVj_bRo  
