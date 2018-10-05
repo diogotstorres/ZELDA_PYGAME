@@ -10,7 +10,7 @@ Apresentação elegante, código levemente macarrônico.
   
 ## Requerimentos
 
-Python 3 (ou superior): https://www.python.org/  
+Python 3: https://www.python.org/  
 Pygame: https://www.pygame.org  
 (Testado em Windows)  
   
