@@ -8,7 +8,7 @@ Compatível com joysticks tal como de Xbox 360 e Xbox ONE.
   
 Apresentação elegante, código levemente macarrônico. 
 
-## Vídeo Exemplo
+## Gameplay  
   
 https://www.youtube.com/watch?v=Ol9Pp3MNaEQ  
     
